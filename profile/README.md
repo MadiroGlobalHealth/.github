@@ -1,9 +1,10 @@
 <p align="center">
   <a href="https://labs.madiro.org">
-    <img src="https://labs.madiro.org/pictures/case-msf.jpg" height="180" alt="MSF — modular OpenMRS health records" />
-    <img src="https://labs.madiro.org/pictures/case-icrc.jpg" height="180" alt="ICRC — offline-first field operations" />
-    <img src="https://labs.madiro.org/pictures/case-uvl.jpg" height="180" alt="Ubuntu Village of Life — integrated open-source HIS" />
-    <img src="https://labs.madiro.org/pictures/case-burundi.jpg" height="180" alt="Burundi Ministry of Health — DHIS2 reporting pipeline" />
+    <img src="https://labs.madiro.org/pictures/hero.jpg" height="150" alt="LIME EMR Mosul — OpenMRS deployment with MSF" />
+    <img src="https://labs.madiro.org/pictures/case-msf.jpg" height="150" alt="MSF — modular OpenMRS health records" />
+    <img src="https://labs.madiro.org/pictures/case-icrc.jpg" height="150" alt="ICRC — offline-first field operations" />
+    <img src="https://labs.madiro.org/pictures/case-uvl.jpg" height="150" alt="Ubuntu Village of Life — integrated open-source HIS" />
+    <img src="https://labs.madiro.org/pictures/case-burundi.jpg" height="150" alt="Burundi Ministry of Health — DHIS2 reporting pipeline" />
   </a>
 </p>
 
