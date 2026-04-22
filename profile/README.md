@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://labs.madiro.org">
-    <img src="https://labs.madiro.org/pictures/og-image.jpg" width="800" alt="Madiro Labs — global digital health partner" />
+    <img src="https://labs.madiro.org/pictures/hero.jpg" width="500" alt="Madiro Labs — global digital health partner" />
   </a>
 </p>
 
