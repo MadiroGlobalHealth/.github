@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://labs.madiro.org/icons/madiro-favicon.png" width="84" alt="Madiro" />
+  <a href="https://labs.madiro.org">
+    <img src="https://labs.madiro.org/pictures/og-image.jpg" width="800" alt="Madiro Labs — global digital health partner" />
+  </a>
 </p>
 
 <h1 align="center">Madiro Labs</h1>
