@@ -56,7 +56,7 @@ Madiro is a non-profit that helps humanitarian organisations, Ministries of Heal
 <p align="center">
   <img src="https://labs.madiro.org/logos/openmrs-new.png" height="40" alt="OpenMRS" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://labs.madiro.org/logos/squared_logos/dhis2-logo.png" height="40" alt="DHIS2" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://labs.madiro.org/logos/squared_logos/openfn-cropped.png" height="40" alt="OpenFN" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://ohie.org/wp-content/uploads/2024/10/openfn-color-2-e1730205238897.png" height="40" alt="OpenFN" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://labs.madiro.org/logos/squared_logos/ocl-cropped.png" height="40" alt="Open Concept Lab" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://labs.madiro.org/logos/squared_logos/ozone-cropped.png" height="40" alt="OzoneHIS" />
 </p>
